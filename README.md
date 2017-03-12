@@ -2,5 +2,5 @@
 For cpp programming handout
 
 #compile
-`g++ lab1.cpp`　
+`g++ lab1.cpp`  
 `a.exe`
